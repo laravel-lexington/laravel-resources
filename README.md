@@ -39,5 +39,13 @@ Links to resources related to Laravel &amp; Web Development
 
 [Larajobs](http://larajobs.com/)
 
+## Git
+
+[Git Documentation](https://git-scm.com/documentation)
+
+[git - the simple guide](http://rogerdudler.github.io/git-guide/)
+
+[Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/)
+
 # Contribute
 Contributions are definitely welcome! Fork, update, send PR.
