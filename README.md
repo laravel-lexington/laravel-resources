@@ -7,6 +7,8 @@ Links to resources related to Laravel &amp; Web Development
 
 [Laracasts](http://laracasts.com/)
 
+[Learning Laravel](http://learninglaravel.net/)
+
 ## News/Newsletters
 
 [Laravel Daily](http://laraveldaily.com/)
@@ -14,8 +16,6 @@ Links to resources related to Laravel &amp; Web Development
 [Laravel News](https://laravel-news.com/)
 
 [Laravel Weekly](http://laravelweekly.com/)
-
-[Learning Laravel](http://learninglaravel.net/)
 
 ## Podcasts
 
