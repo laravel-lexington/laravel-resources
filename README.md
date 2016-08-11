@@ -49,3 +49,10 @@ Links to resources related to Laravel &amp; Web Development
 
 # Contribute
 Contributions are definitely welcome! Fork, update, send PR.
+
+## Blogs Worth Reading
+
+Matt Stauffer - [https://mattstauffer.co/blog](https://mattstauffer.co/blog)
+Adam Wathan - [https://adamwathan.me/](https://adamwathan.me/)
+Scotch - [https://scotch.io/](https://scotch.io/)
+Culttt - [http://culttt.com/](http://culttt.com/)
